@@ -1,0 +1,197 @@
+Route,Total_Orders,Mean_Lead_Time,Median_Lead_Time,Std_Lead_Time,Min_Lead_Time,Max_Lead_Time,Lead_Time_Range,Lead_Time_CV_Percent
+Lot's O' Nuts → Canada → Atlantic → New Brunswick,4,177.5,177.5,0.58,177,178,1,0.33
+Lot's O' Nuts → Canada → Atlantic → Newfoundland and Labrador,5,181.5,181.0,2.95,178,185,7,1.63
+Lot's O' Nuts → Canada → Atlantic → Ontario,24,176.86,176.0,1.38,175,179,4,0.78
+Lot's O' Nuts → Canada → Atlantic → Prince Edward Island,6,178.33,178.0,0.52,178,179,1,0.29
+Lot's O' Nuts → Canada → Atlantic → Quebec,20,177.54,178.0,2.06,174,181,7,1.16
+Lot's O' Nuts → Canada → Interior → Manitoba,2,175.5,175.5,0.71,175,176,1,0.4
+Lot's O' Nuts → Canada → Pacific → Alberta,12,178.19,179.0,0.98,177,179,2,0.55
+Lot's O' Nuts → Canada → Pacific → British Columbia,18,178.11,178.0,0.9,176,179,3,0.51
+Lot's O' Nuts → United States → Atlantic → Connecticut,40,177.17,177.0,2.12,173,180,7,1.2
+Lot's O' Nuts → United States → Atlantic → Delaware,39,177.7,178.0,2.06,173,182,9,1.16
+Lot's O' Nuts → United States → Atlantic → District of Columbia,6,178.88,179.0,0.83,178,180,2,0.47
+Lot's O' Nuts → United States → Atlantic → Maine,5,179.0,179.0,1.1,178,180,2,0.61
+Lot's O' Nuts → United States → Atlantic → Maryland,44,177.57,178.0,1.89,173,181,8,1.06
+Lot's O' Nuts → United States → Atlantic → Massachusetts,58,177.22,177.0,1.64,173,180,7,0.92
+Lot's O' Nuts → United States → Atlantic → New Hampshire,13,176.69,177.0,1.25,174,178,4,0.71
+Lot's O' Nuts → United States → Atlantic → New Jersey,53,178.11,178.0,1.63,175,181,6,0.92
+Lot's O' Nuts → United States → Atlantic → New York,544,177.64,178.0,1.81,173,182,9,1.02
+Lot's O' Nuts → United States → Atlantic → Ohio,218,177.08,177.0,2.05,173,182,9,1.16
+Lot's O' Nuts → United States → Atlantic → Pennsylvania,270,177.51,178.0,1.53,173,181,8,0.86
+Lot's O' Nuts → United States → Atlantic → Rhode Island,23,176.97,177.0,1.85,175,181,6,1.04
+Lot's O' Nuts → United States → Atlantic → Vermont,4,177.4,177.0,0.89,177,179,2,0.5
+Lot's O' Nuts → United States → Atlantic → West Virginia,2,176.0,176.0,2.83,174,178,4,1.61
+Lot's O' Nuts → United States → Gulf → Alabama,30,178.15,178.0,1.74,176,181,5,0.98
+Lot's O' Nuts → United States → Gulf → Arkansas,25,177.87,178.0,2.4,174,181,7,1.35
+Lot's O' Nuts → United States → Gulf → Florida,176,177.51,178.0,1.88,173,181,8,1.06
+Lot's O' Nuts → United States → Gulf → Georgia,88,177.44,178.0,2.07,173,181,8,1.16
+Lot's O' Nuts → United States → Gulf → Kentucky,63,177.68,178.0,1.78,173,181,8,1.0
+Lot's O' Nuts → United States → Gulf → Louisiana,21,176.96,178.0,1.94,173,179,6,1.1
+Lot's O' Nuts → United States → Gulf → Mississippi,25,177.6,178.0,1.69,174,181,7,0.95
+Lot's O' Nuts → United States → Gulf → North Carolina,120,177.66,178.0,1.77,173,181,8,1.0
+Lot's O' Nuts → United States → Gulf → South Carolina,18,177.24,177.0,1.64,173,180,7,0.93
+Lot's O' Nuts → United States → Gulf → Tennessee,88,177.94,178.0,1.6,174,181,7,0.9
+Lot's O' Nuts → United States → Gulf → Virginia,91,177.42,178.0,1.74,173,180,7,0.98
+Lot's O' Nuts → United States → Interior → Illinois,235,177.76,178.0,1.59,173,182,9,0.89
+Lot's O' Nuts → United States → Interior → Indiana,74,177.74,178.0,1.76,173,181,8,0.99
+Lot's O' Nuts → United States → Interior → Iowa,14,177.69,177.5,1.89,174,180,6,1.06
+Lot's O' Nuts → United States → Interior → Kansas,15,177.6,177.0,1.59,176,181,5,0.9
+Lot's O' Nuts → United States → Interior → Michigan,118,177.51,178.0,2.01,173,181,8,1.13
+Lot's O' Nuts → United States → Interior → Minnesota,38,178.3,178.0,1.46,175,181,6,0.82
+Lot's O' Nuts → United States → Interior → Missouri,30,177.83,178.0,1.4,174,180,6,0.79
+Lot's O' Nuts → United States → Interior → Nebraska,20,176.87,178.0,1.46,174,178,4,0.82
+Lot's O' Nuts → United States → Interior → North Dakota,4,177.2,176.0,1.64,176,179,3,0.93
+Lot's O' Nuts → United States → Interior → Oklahoma,34,177.98,179.0,2.06,173,181,8,1.15
+Lot's O' Nuts → United States → Interior → South Dakota,6,178.67,179.0,0.87,177,180,3,0.48
+Lot's O' Nuts → United States → Interior → Texas,479,177.57,178.0,1.73,173,182,9,0.97
+Lot's O' Nuts → United States → Interior → Wisconsin,44,177.45,178.0,1.87,173,181,8,1.05
+Lot's O' Nuts → United States → Pacific → Arizona,94,177.68,178.0,2.0,173,181,8,1.12
+Lot's O' Nuts → United States → Pacific → California,944,177.41,178.0,1.91,173,182,9,1.08
+Lot's O' Nuts → United States → Pacific → Colorado,82,177.32,177.0,1.85,173,181,8,1.05
+Lot's O' Nuts → United States → Pacific → Idaho,12,177.5,177.5,1.45,175,180,5,0.82
+Lot's O' Nuts → United States → Pacific → Montana,7,178.0,178.0,0.93,177,179,2,0.52
+Lot's O' Nuts → United States → Pacific → Nevada,23,177.92,178.0,2.12,174,181,7,1.19
+Lot's O' Nuts → United States → Pacific → New Mexico,18,178.56,179.0,1.2,175,181,6,0.67
+Lot's O' Nuts → United States → Pacific → Oregon,62,178.04,178.0,1.76,175,181,6,0.99
+Lot's O' Nuts → United States → Pacific → Utah,21,178.17,179.0,1.28,174,179,5,0.72
+Lot's O' Nuts → United States → Pacific → Washington,230,177.67,178.0,1.88,173,182,9,1.06
+Lot's O' Nuts → United States → Pacific → Wyoming,1,178.0,178.0,,178,178,0,
+Secret Factory → Canada → Atlantic → Quebec,2,178.0,178.0,0.0,178,178,0,0.0
+Secret Factory → Canada → Pacific → Alberta,2,179.0,179.0,0.0,179,179,0,0.0
+Secret Factory → United States → Atlantic → Connecticut,1,177.0,177.0,,177,177,0,
+Secret Factory → United States → Atlantic → Delaware,1,179.0,179.0,,179,179,0,
+Secret Factory → United States → Atlantic → Maryland,3,178.33,178.0,1.53,177,180,3,0.86
+Secret Factory → United States → Atlantic → Massachusetts,2,176.5,176.5,2.12,175,178,3,1.2
+Secret Factory → United States → Atlantic → New Hampshire,1,180.0,180.0,,180,180,0,
+Secret Factory → United States → Atlantic → New Jersey,2,178.5,178.5,2.12,177,180,3,1.19
+Secret Factory → United States → Atlantic → New York,23,177.33,177.0,1.81,173,180,7,1.02
+Secret Factory → United States → Atlantic → Ohio,12,177.62,178.0,1.56,175,180,5,0.88
+Secret Factory → United States → Atlantic → Pennsylvania,19,177.26,178.0,1.88,173,180,7,1.06
+Secret Factory → United States → Atlantic → Rhode Island,3,176.67,176.0,2.08,175,179,4,1.18
+Secret Factory → United States → Atlantic → Vermont,1,177.0,177.0,,177,177,0,
+Secret Factory → United States → Gulf → Alabama,3,176.67,176.0,1.15,176,178,2,0.65
+Secret Factory → United States → Gulf → Arkansas,2,178.0,178.0,1.41,177,179,2,0.79
+Secret Factory → United States → Gulf → Florida,6,177.71,178.0,1.38,175,179,4,0.78
+Secret Factory → United States → Gulf → Georgia,6,177.86,178.0,0.69,177,179,2,0.39
+Secret Factory → United States → Gulf → Kentucky,2,176.5,176.5,0.71,176,177,1,0.4
+Secret Factory → United States → Gulf → Louisiana,2,178.5,178.5,0.71,178,179,1,0.4
+Secret Factory → United States → Gulf → Mississippi,1,178.0,178.0,,178,178,0,
+Secret Factory → United States → Gulf → North Carolina,4,178.25,179.0,3.1,174,181,7,1.74
+Secret Factory → United States → Gulf → South Carolina,1,179.0,179.0,,179,179,0,
+Secret Factory → United States → Gulf → Tennessee,3,177.67,177.0,1.15,177,179,2,0.65
+Secret Factory → United States → Gulf → Virginia,5,177.2,176.0,1.79,176,180,4,1.01
+Secret Factory → United States → Interior → Illinois,13,176.92,177.0,1.66,174,180,6,0.94
+Secret Factory → United States → Interior → Indiana,4,177.75,178.0,1.26,176,179,3,0.71
+Secret Factory → United States → Interior → Michigan,5,177.4,178.0,2.51,173,179,6,1.41
+Secret Factory → United States → Interior → Minnesota,1,179.0,179.0,,179,179,0,
+Secret Factory → United States → Interior → Nebraska,1,176.0,176.0,,176,176,0,
+Secret Factory → United States → Interior → Texas,16,177.19,177.0,1.76,175,180,5,0.99
+Secret Factory → United States → Interior → Wisconsin,5,177.6,178.0,1.14,176,179,3,0.64
+Secret Factory → United States → Pacific → Arizona,5,178.0,178.0,1.58,176,180,4,0.89
+Secret Factory → United States → Pacific → California,31,177.29,177.0,1.75,174,180,6,0.99
+Secret Factory → United States → Pacific → Colorado,7,176.29,176.0,2.21,174,180,6,1.26
+Secret Factory → United States → Pacific → Nevada,2,178.0,178.0,2.83,176,180,4,1.59
+Secret Factory → United States → Pacific → New Mexico,2,176.0,176.0,2.83,174,178,4,1.61
+Secret Factory → United States → Pacific → Oregon,2,175.5,175.5,0.71,175,176,1,0.4
+Secret Factory → United States → Pacific → Utah,1,179.0,179.0,,179,179,0,
+Secret Factory → United States → Pacific → Washington,11,177.36,177.0,1.75,175,180,5,0.99
+Sugar Shack → United States → Atlantic → Connecticut,1,180.0,180.0,,180,180,0,
+Sugar Shack → United States → Atlantic → Delaware,1,180.0,180.0,,180,180,0,
+Sugar Shack → United States → Atlantic → New Jersey,1,181.0,181.0,,181,181,0,
+Sugar Shack → United States → Atlantic → New York,9,177.78,178.0,1.48,175,179,4,0.83
+Sugar Shack → United States → Atlantic → Ohio,2,176.5,176.5,3.54,174,179,5,2.0
+Sugar Shack → United States → Atlantic → Pennsylvania,3,178.67,179.0,0.58,178,179,1,0.32
+Sugar Shack → United States → Atlantic → Rhode Island,1,177.0,177.0,,177,177,0,
+Sugar Shack → United States → Gulf → Florida,3,179.0,179.0,0.0,179,179,0,0.0
+Sugar Shack → United States → Gulf → Tennessee,1,176.0,176.0,,176,176,0,
+Sugar Shack → United States → Interior → Illinois,2,176.0,176.0,1.41,175,177,2,0.8
+Sugar Shack → United States → Interior → Michigan,3,177.67,177.0,1.15,177,179,2,0.65
+Sugar Shack → United States → Interior → Texas,3,177.67,177.0,2.08,176,180,4,1.17
+Sugar Shack → United States → Pacific → Arizona,1,179.0,179.0,,179,179,0,
+Sugar Shack → United States → Pacific → California,1,177.0,177.0,,177,177,0,
+Sugar Shack → United States → Pacific → Washington,1,177.0,177.0,,177,177,0,
+The Other Factory → United States → Atlantic → Connecticut,2,177.5,177.5,2.12,176,179,3,1.2
+The Other Factory → United States → Atlantic → Delaware,2,178.0,178.0,2.83,176,180,4,1.59
+The Other Factory → United States → Atlantic → Maryland,1,178.0,178.0,,178,178,0,
+The Other Factory → United States → Atlantic → Massachusetts,3,176.67,177.0,0.58,176,177,1,0.33
+The Other Factory → United States → Atlantic → New Hampshire,2,175.5,175.5,0.71,175,176,1,0.4
+The Other Factory → United States → Atlantic → New Jersey,3,177.67,178.0,0.58,177,178,1,0.32
+The Other Factory → United States → Atlantic → New York,13,178.0,178.0,1.92,173,180,7,1.08
+The Other Factory → United States → Atlantic → Ohio,3,176.33,175.0,2.31,175,179,4,1.31
+The Other Factory → United States → Atlantic → Pennsylvania,7,177.43,178.0,2.23,174,180,6,1.25
+The Other Factory → United States → Atlantic → Rhode Island,1,178.0,178.0,,178,178,0,
+The Other Factory → United States → Gulf → Alabama,2,178.5,178.5,0.71,178,179,1,0.4
+The Other Factory → United States → Gulf → Florida,3,177.33,177.0,1.53,176,179,3,0.86
+The Other Factory → United States → Gulf → Georgia,2,178.0,178.0,0.0,178,178,0,0.0
+The Other Factory → United States → Gulf → Kentucky,2,175.5,175.5,2.12,174,177,3,1.21
+The Other Factory → United States → Gulf → Louisiana,1,177.0,177.0,,177,177,0,
+The Other Factory → United States → Gulf → North Carolina,1,174.0,174.0,,174,174,0,
+The Other Factory → United States → Gulf → South Carolina,1,177.0,177.0,,177,177,0,
+The Other Factory → United States → Gulf → Tennessee,3,178.0,179.0,2.65,175,180,5,1.49
+The Other Factory → United States → Gulf → Virginia,4,176.25,177.0,2.36,173,178,5,1.34
+The Other Factory → United States → Interior → Indiana,1,179.0,179.0,,179,179,0,
+The Other Factory → United States → Interior → Missouri,1,179.0,179.0,,179,179,0,
+The Other Factory → United States → Interior → Texas,9,177.11,177.0,0.93,176,179,3,0.52
+The Other Factory → United States → Pacific → Arizona,2,175.5,175.5,0.71,175,176,1,0.4
+The Other Factory → United States → Pacific → California,21,177.05,177.0,1.88,173,180,7,1.06
+The Other Factory → United States → Pacific → Colorado,2,177.5,177.5,2.12,176,179,3,1.2
+The Other Factory → United States → Pacific → Nevada,1,177.0,177.0,,177,177,0,
+The Other Factory → United States → Pacific → Oregon,2,176.0,176.0,0.0,176,176,0,0.0
+The Other Factory → United States → Pacific → Washington,3,179.25,179.5,0.96,178,180,2,0.53
+Wicked Choccy's → Canada → Atlantic → New Brunswick,4,177.5,177.5,0.58,177,178,1,0.33
+Wicked Choccy's → Canada → Atlantic → Nova Scotia,6,177.0,177.0,0.89,176,178,2,0.51
+Wicked Choccy's → Canada → Atlantic → Ontario,17,177.43,178.0,1.17,175,179,4,0.66
+Wicked Choccy's → Canada → Atlantic → Prince Edward Island,2,178.5,178.5,0.58,178,179,1,0.32
+Wicked Choccy's → Canada → Atlantic → Quebec,16,178.5,178.0,1.14,177,181,4,0.64
+Wicked Choccy's → Canada → Interior → Manitoba,6,177.1,177.0,0.99,175,178,3,0.56
+Wicked Choccy's → Canada → Pacific → Alberta,8,178.88,179.0,0.35,178,179,1,0.2
+Wicked Choccy's → Canada → Pacific → British Columbia,4,177.75,178.0,0.5,177,178,1,0.28
+Wicked Choccy's → Canada → Pacific → Saskatchewan,2,178.5,178.5,0.71,178,179,1,0.4
+Wicked Choccy's → United States → Atlantic → Connecticut,30,177.26,177.0,2.45,173,181,8,1.38
+Wicked Choccy's → United States → Atlantic → Delaware,37,178.04,178.0,1.65,175,182,7,0.92
+Wicked Choccy's → United States → Atlantic → District of Columbia,2,179.5,179.5,0.71,179,180,1,0.39
+Wicked Choccy's → United States → Atlantic → Maine,2,178.0,178.0,0.0,178,178,0,0.0
+Wicked Choccy's → United States → Atlantic → Maryland,32,177.63,178.0,1.77,173,181,8,1.0
+Wicked Choccy's → United States → Atlantic → Massachusetts,43,177.91,178.0,1.31,174,181,7,0.73
+Wicked Choccy's → United States → Atlantic → New Hampshire,10,178.09,178.0,1.51,176,180,4,0.85
+Wicked Choccy's → United States → Atlantic → New Jersey,49,177.71,178.0,1.7,174,181,7,0.96
+Wicked Choccy's → United States → Atlantic → New York,353,177.65,178.0,1.85,173,182,9,1.04
+Wicked Choccy's → United States → Atlantic → Ohio,157,177.11,177.0,2.02,173,182,9,1.14
+Wicked Choccy's → United States → Atlantic → Pennsylvania,188,177.63,178.0,1.69,173,182,9,0.95
+Wicked Choccy's → United States → Atlantic → Rhode Island,18,177.1,177.0,1.79,175,181,6,1.01
+Wicked Choccy's → United States → Atlantic → Vermont,5,176.6,177.0,0.89,175,177,2,0.51
+Wicked Choccy's → United States → Atlantic → West Virginia,2,178.0,178.0,0.0,178,178,0,0.0
+Wicked Choccy's → United States → Gulf → Alabama,18,177.05,177.0,1.46,173,180,7,0.83
+Wicked Choccy's → United States → Gulf → Arkansas,21,177.85,178.0,2.35,174,181,7,1.32
+Wicked Choccy's → United States → Gulf → Florida,131,177.74,178.0,1.97,173,182,9,1.11
+Wicked Choccy's → United States → Gulf → Georgia,55,177.48,178.0,2.03,173,181,8,1.14
+Wicked Choccy's → United States → Gulf → Kentucky,45,177.79,178.0,1.58,174,181,7,0.89
+Wicked Choccy's → United States → Gulf → Louisiana,14,176.8,177.0,1.52,175,179,4,0.86
+Wicked Choccy's → United States → Gulf → Mississippi,17,177.91,178.0,1.38,174,180,6,0.77
+Wicked Choccy's → United States → Gulf → North Carolina,91,177.49,178.0,1.77,173,181,8,1.0
+Wicked Choccy's → United States → Gulf → South Carolina,14,176.89,177.0,1.88,173,180,7,1.06
+Wicked Choccy's → United States → Gulf → Tennessee,56,178.12,178.0,1.42,175,181,6,0.8
+Wicked Choccy's → United States → Gulf → Virginia,85,177.72,178.0,1.73,173,181,8,0.97
+Wicked Choccy's → United States → Interior → Illinois,183,177.85,178.0,1.73,174,182,8,0.97
+Wicked Choccy's → United States → Interior → Indiana,44,178.28,179.0,1.63,174,181,7,0.91
+Wicked Choccy's → United States → Interior → Iowa,12,177.57,178.0,2.1,173,180,7,1.18
+Wicked Choccy's → United States → Interior → Kansas,8,178.0,178.0,2.18,174,181,7,1.22
+Wicked Choccy's → United States → Interior → Michigan,83,177.87,178.0,1.98,173,181,8,1.11
+Wicked Choccy's → United States → Interior → Minnesota,36,178.4,179.0,2.09,174,181,7,1.17
+Wicked Choccy's → United States → Interior → Missouri,25,177.66,178.0,1.61,175,181,6,0.91
+Wicked Choccy's → United States → Interior → Nebraska,12,177.5,178.0,2.1,174,181,7,1.18
+Wicked Choccy's → United States → Interior → North Dakota,1,176.0,176.0,0.0,176,176,0,0.0
+Wicked Choccy's → United States → Interior → Oklahoma,22,177.76,178.0,2.11,174,181,7,1.19
+Wicked Choccy's → United States → Interior → South Dakota,2,178.33,178.0,0.58,178,179,1,0.32
+Wicked Choccy's → United States → Interior → Texas,326,177.63,178.0,1.82,173,182,9,1.02
+Wicked Choccy's → United States → Interior → Wisconsin,42,177.66,178.0,1.58,173,180,7,0.89
+Wicked Choccy's → United States → Pacific → Arizona,88,177.8,178.0,2.03,173,181,8,1.14
+Wicked Choccy's → United States → Pacific → California,689,177.61,178.0,1.84,173,182,9,1.03
+Wicked Choccy's → United States → Pacific → Colorado,49,177.16,177.0,1.34,174,180,6,0.75
+Wicked Choccy's → United States → Pacific → Idaho,6,177.14,178.0,1.46,175,179,4,0.83
+Wicked Choccy's → United States → Pacific → Montana,5,178.57,178.0,2.64,174,181,7,1.48
+Wicked Choccy's → United States → Pacific → Nevada,10,177.83,178.0,2.17,174,181,7,1.22
+Wicked Choccy's → United States → Pacific → New Mexico,14,178.35,178.0,1.06,176,180,4,0.59
+Wicked Choccy's → United States → Pacific → Oregon,39,177.91,178.0,1.84,175,181,6,1.03
+Wicked Choccy's → United States → Pacific → Utah,22,178.0,178.0,1.6,174,180,6,0.9
+Wicked Choccy's → United States → Pacific → Washington,187,177.58,178.0,1.99,173,181,8,1.12
