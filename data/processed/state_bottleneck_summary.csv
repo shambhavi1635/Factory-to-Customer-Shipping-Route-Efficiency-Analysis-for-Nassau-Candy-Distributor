@@ -1,0 +1,60 @@
+Region,State/Province,Total_Shipments,Mean_Lead_Time,Median_Lead_Time,Std_Lead_Time,Lead_Time_CV_Percent,High_Volume,High_Recorded_Lead_Time,Bottleneck_Category
+Atlantic,Connecticut,62,1357.55,1274.0,271.68,20.01,True,True,Priority Bottleneck Candidate
+Atlantic,Delaware,66,1269.75,1273.5,233.93,18.42,True,False,High Volume - Lower Lead Time
+Atlantic,District of Columbia,6,1347.7,1275.0,153.53,11.39,False,True,Investigate - Lower Volume
+Atlantic,Maine,4,1137.12,1274.0,189.73,16.69,False,False,Lower Immediate Priority
+Atlantic,Maryland,65,1356.78,1274.0,238.9,17.61,True,True,Priority Bottleneck Candidate
+Atlantic,Massachusetts,89,1308.32,1274.0,251.98,19.26,True,False,High Volume - Lower Lead Time
+Atlantic,New Brunswick,8,1273.25,1273.0,276.29,21.7,False,False,Lower Immediate Priority
+Atlantic,New Hampshire,23,1300.04,1273.0,247.41,19.03,False,False,Lower Immediate Priority
+Atlantic,New Jersey,88,1338.33,1274.0,247.32,18.48,True,True,Priority Bottleneck Candidate
+Atlantic,New York,763,1324.49,1274.0,249.36,18.83,True,True,Priority Bottleneck Candidate
+Atlantic,Newfoundland and Labrador,5,1216.17,1094.5,357.45,29.39,False,False,Lower Immediate Priority
+Atlantic,Nova Scotia,6,1272.67,1273.0,326.91,25.69,False,False,Lower Immediate Priority
+Atlantic,Ohio,321,1325.73,1273.0,263.98,19.91,True,True,Priority Bottleneck Candidate
+Atlantic,Ontario,30,1247.47,1272.0,272.27,21.83,False,False,Lower Immediate Priority
+Atlantic,Pennsylvania,407,1324.2,1273.0,261.76,19.77,True,True,Priority Bottleneck Candidate
+Atlantic,Prince Edward Island,6,1420.3,1456.5,255.81,18.01,False,True,Investigate - Lower Volume
+Atlantic,Quebec,38,1288.24,1274.0,313.06,24.3,True,False,High Volume - Lower Lead Time
+Atlantic,Rhode Island,37,1324.8,1273.0,281.9,21.28,False,True,Investigate - Lower Volume
+Atlantic,Vermont,9,1438.91,1273.0,191.0,13.27,False,True,Investigate - Lower Volume
+Atlantic,West Virginia,3,1638.0,1639.0,2.0,0.12,False,True,Investigate - Lower Volume
+Gulf,Alabama,44,1291.28,1273.0,253.48,19.63,True,False,High Volume - Lower Lead Time
+Gulf,Arkansas,39,1285.73,1273.0,284.75,22.15,True,False,High Volume - Lower Lead Time
+Gulf,Florida,260,1311.4,1274.0,269.81,20.57,True,False,High Volume - Lower Lead Time
+Gulf,Georgia,118,1338.64,1274.0,249.18,18.61,True,True,Priority Bottleneck Candidate
+Gulf,Kentucky,84,1328.45,1274.0,274.45,20.66,True,True,Priority Bottleneck Candidate
+Gulf,Louisiana,32,1263.79,1273.0,306.78,24.27,False,False,Lower Immediate Priority
+Gulf,Mississippi,34,1266.57,1274.0,263.15,20.78,False,False,Lower Immediate Priority
+Gulf,North Carolina,182,1334.88,1274.0,254.99,19.1,True,True,Priority Bottleneck Candidate
+Gulf,South Carolina,28,1255.43,1273.0,241.75,19.26,False,False,Lower Immediate Priority
+Gulf,Tennessee,123,1391.49,1276.0,248.2,17.84,True,True,Priority Bottleneck Candidate
+Gulf,Virginia,156,1229.12,1273.0,256.42,20.86,True,False,High Volume - Lower Lead Time
+Interior,Illinois,362,1323.15,1274.0,269.72,20.38,True,True,Priority Bottleneck Candidate
+Interior,Indiana,99,1381.5,1274.0,242.35,17.54,True,True,Priority Bottleneck Candidate
+Interior,Iowa,22,1443.9,1636.0,229.8,15.92,False,True,Investigate - Lower Volume
+Interior,Kansas,18,1273.29,1273.0,262.99,20.65,False,False,Lower Immediate Priority
+Interior,Manitoba,6,1455.33,1455.0,191.14,13.13,False,True,Investigate - Lower Volume
+Interior,Michigan,171,1300.56,1273.0,244.05,18.77,True,False,High Volume - Lower Lead Time
+Interior,Minnesota,64,1335.47,1275.0,297.65,22.29,True,True,Priority Bottleneck Candidate
+Interior,Missouri,44,1339.86,1274.0,278.41,20.78,True,True,Priority Bottleneck Candidate
+Interior,Nebraska,27,1311.24,1274.0,237.21,18.09,False,False,Lower Immediate Priority
+Interior,North Dakota,3,1637.86,1637.0,1.46,0.09,False,True,Investigate - Lower Volume
+Interior,Oklahoma,45,1301.36,1274.0,241.76,18.58,True,False,High Volume - Lower Lead Time
+Interior,South Dakota,6,1395.92,1640.0,360.35,25.81,False,True,Investigate - Lower Volume
+Interior,Texas,662,1310.31,1274.0,266.73,20.36,True,False,High Volume - Lower Lead Time
+Interior,Wisconsin,77,1343.0,1274.0,224.11,16.69,True,True,Priority Bottleneck Candidate
+Pacific,Alberta,16,1274.08,1273.0,292.4,22.95,False,False,Lower Immediate Priority
+Pacific,Arizona,153,1309.21,1274.0,263.39,20.12,True,False,High Volume - Lower Lead Time
+Pacific,British Columbia,16,1290.32,1274.0,308.43,23.9,False,False,Lower Immediate Priority
+Pacific,California,1365,1318.43,1274.0,264.39,20.05,True,True,Priority Bottleneck Candidate
+Pacific,Colorado,110,1337.19,1274.0,249.68,18.67,True,True,Priority Bottleneck Candidate
+Pacific,Idaho,16,1342.57,1273.0,273.93,20.4,False,True,Investigate - Lower Volume
+Pacific,Montana,9,1273.8,1273.0,308.32,24.2,False,False,Lower Immediate Priority
+Pacific,Nevada,30,1226.79,1273.0,239.77,19.54,False,False,Lower Immediate Priority
+Pacific,New Mexico,29,1441.84,1639.0,267.2,18.53,False,True,Investigate - Lower Volume
+Pacific,Oregon,83,1267.71,1273.0,259.37,20.46,True,False,High Volume - Lower Lead Time
+Pacific,Saskatchewan,2,1457.0,1457.0,258.8,17.76,False,True,Investigate - Lower Volume
+Pacific,Utah,36,1253.0,1275.0,289.78,23.13,False,False,Lower Immediate Priority
+Pacific,Washington,350,1360.66,1275.0,272.12,20.0,True,True,Priority Bottleneck Candidate
+Pacific,Wyoming,1,1274.0,1274.0,,,False,False,Lower Immediate Priority

@@ -1,0 +1,5 @@
+Region,Total_Shipments,Mean_Lead_Time,Median_Lead_Time,Std_Lead_Time,Min_Lead_Time,Max_Lead_Time,Lead_Time_CV_Percent,Volume_Level,Lead_Time_Level,Bottleneck_Category
+Interior,1606,1323.09,1274.0,262.69,904,1642,19.85,Low Volume,High Recorded Lead Time,Investigate - Lower Volume
+Atlantic,2036,1322.75,1274.0,256.54,904,1642,19.39,High Volume,High Recorded Lead Time,Priority Bottleneck Candidate
+Pacific,2216,1322.19,1274.0,266.47,904,1642,20.15,High Volume,Low Recorded Lead Time,High Volume - Lower Lead Time
+Gulf,1100,1311.37,1274.0,264.73,904,1642,20.19,Low Volume,Low Recorded Lead Time,Lower Immediate Priority
